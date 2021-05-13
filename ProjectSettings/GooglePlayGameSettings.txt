@@ -1,0 +1,9 @@
+lastUpgrade=01009
+proj.pluginVersion=0.10.09
+proj.AppId=123456789
+and.BundleId=com.XwinStudio.LostDevil
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e123456789%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.XwinStudio.LostDevil%3c%2fstring%3e%0d%0a++%3c%21--achievement+Treasures+tracker--%3e%0d%0a++%3cstring+name%3d%22achievement_treasures_tracker%22+translatable%3d%22false%22%3eCgkI0Ofr6sYSEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Explorer--%3e%0d%0a++%3cstring+name%3d%22achievement_explorer%22+translatable%3d%22false%22%3eCgkI0Ofr6sYSEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--achievement+Hunter--%3e%0d%0a++%3cstring+name%3d%22achievement_hunter%22+translatable%3d%22false%22%3eCgkI0Ofr6sYSEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+Revival--%3e%0d%0a++%3cstring+name%3d%22achievement_revival%22+translatable%3d%22false%22%3eCgkI0Ofr6sYSEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--achievement+Baka%21%21--%3e%0d%0a++%3cstring+name%3d%22achievement_baka%22+translatable%3d%22false%22%3eCgkI0Ofr6sYSEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Dark+Soul+Hunter--%3e%0d%0a++%3cstring+name%3d%22achievement_dark_soul_hunter%22+translatable%3d%22false%22%3eCgkI0Ofr6sYSEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--achievement+Easy+Game--%3e%0d%0a++%3cstring+name%3d%22achievement_easy_game%22+translatable%3d%22false%22%3eCgkI0Ofr6sYSEAIQBw%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true
