@@ -11,7 +11,7 @@ public class ChooseMusic : MonoBehaviour
         GameObject allinfor = GameObject.FindGameObjectWithTag("DATA");
         int i = allinfor.GetComponent<AllInfor>().getMusic();
         GameObject audioPlayer = GameObject.FindGameObjectWithTag("MusicPlayer");
-        audioPlayer.GetComponent<AudioPlayer>().Playmusic(i);
+        //audioPlayer.GetComponent<AudioPlayer>().Playmusic(i);
     }
 
     public void Choose_Music()
